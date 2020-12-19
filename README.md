@@ -24,9 +24,10 @@ time_interval = ('2020-03-01', '2020-05-01')
 
 ## Satellite Images
 ### True Color (PNG) on a specific date
-![Alt text](https://github.com/rlm4692/sentinel-hub/true-color.png)
-### Multiple timestamps data
+![alt text](https://github.com/rlm4692/sentinel-hub/blob/main/true-color.png)
 
+### Multiple timestamps data
+![alt text](https://github.com/rlm4692/sentinel-hub/blob/main/multiple%20timestamps.png)
 ## Statistical Measures of NDVI values
 
 ### Min, Max, Mean, and StDev
@@ -59,4 +60,9 @@ makiling = fis_data_to_dataframe(histogram_data)
 makiling_sort = makiling.sort_index()
 makiling_sort
 ```  
+![alt text](https://github.com/rlm4692/sentinel-hub/blob/main/NDVI%20stats.png)
 ### Plot Distribution of NDVI Values
+![alt text](https://github.com/rlm4692/sentinel-hub/blob/main/NDVI-1.png)
+![alt text](https://github.com/rlm4692/sentinel-hub/blob/main/NDVI-2.png)
+![alt text](https://github.com/rlm4692/sentinel-hub/blob/main/NDVI-3.png)
+![alt text](https://github.com/rlm4692/sentinel-hub/blob/main/NDVI-4.png)
