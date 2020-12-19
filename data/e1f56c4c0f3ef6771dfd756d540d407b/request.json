@@ -1,0 +1,18 @@
+{
+    "headers": {
+        "Content-Type": "application/json",
+        "User-Agent": "sentinelhub-py/v3.1.0"
+    },
+    "payload": {
+        "bbox": "14.11884,121.18999,14.160235,121.232678",
+        "crs": "EPSG:4326",
+        "layer": "NDVI",
+        "maxcc": 100.0,
+        "resolution": "60m",
+        "service": "fis",
+        "time": "2020-02-01T00:00:00/2020-05-01T23:59:59",
+        "warnings": false
+    },
+    "timestamp": "2020-12-16T18:30:41.430167",
+    "url": "https://services-uswest2.sentinel-hub.com/ogc/fis/fc25d49d-aba5-4c2a-a0ee-1933165188ce"
+}
